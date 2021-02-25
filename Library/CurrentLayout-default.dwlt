@@ -76,7 +76,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 19
+  controlID: 17
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -229,7 +229,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 24
+  controlID: 18
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1293,8 +1293,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1
-    y: 651
+    x: 2229
+    y: 705
     width: 1231
     height: 334
   m_ViewDataDictionary: {fileID: 0}
@@ -1311,21 +1311,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Audio
+    - Assets
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Sprites/Audio
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Giancarlo Penton\Desktop\UCF\Tutorial1_5
+  m_LastProjectPath: C:\Users\Giancarlo Penton\Documents\GitHub\Tutorial1_5Redo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 80490000
-    m_LastClickedID: 18816
-    m_ExpandedIDs: 00000000724900007a49000000ca9a3b
+    m_SelectedIDs: 083c0000
+    m_LastClickedID: 15368
+    m_ExpandedIDs: 00000000083c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1353,7 +1353,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000083c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1475,9 +1475,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 80490000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: e2faffff
+      m_ExpandedIDs: 54fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1539,7 +1539,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: 97.615295, y: -2.7087455, z: -231.54263}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1592,7 +1592,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 10
     speed: 2
-    m_Value: 94.52013
+    m_Value: 10
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1663,10 +1663,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -524.5
-    m_HBaseRangeMax: 524.5
-    m_VBaseRangeMin: -295
-    m_VBaseRangeMax: 295
+    m_HBaseRangeMin: -543
+    m_HBaseRangeMax: 543
+    m_VBaseRangeMin: -305.5
+    m_VBaseRangeMax: 305.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1683,11 +1683,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 1231
-      height: 590
+      height: 611
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 615.5, y: 295}
+    m_Translation: {x: 615.5, y: 305.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -1695,9 +1695,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -615.5
-      y: -295
+      y: -305.5
       width: 1231
-      height: 590
+      height: 611
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1231, y: 611}
