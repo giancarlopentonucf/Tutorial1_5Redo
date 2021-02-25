@@ -86,5 +86,12 @@ public class CatController : MonoBehaviour
 
         }
 
+        if (Input.GetKey("escape"))
+
+        {
+            Application.Quit();
+
+        }
+
     }
 }
